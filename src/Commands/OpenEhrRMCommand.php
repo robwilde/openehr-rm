@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace MrWilde\OpenEhrRM\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class OpenEhrRMCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'openehr-rm';
 
     public $description = 'My command';
 
