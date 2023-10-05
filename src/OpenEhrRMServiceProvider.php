@@ -2,9 +2,9 @@
 
 namespace MrWilde\OpenEhrRM;
 
+use MrWilde\OpenEhrRM\Commands\OpenEhrRMCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use MrWilde\OpenEhrRM\Commands\OpenEhrRMCommand;
 
 class OpenEhrRMServiceProvider extends PackageServiceProvider
 {

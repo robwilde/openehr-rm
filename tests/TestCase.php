@@ -3,8 +3,8 @@
 namespace MrWilde\OpenEhrRM\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use MrWilde\OpenEhrRM\OpenEhrRMServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
